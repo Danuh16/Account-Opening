@@ -1,0 +1,15 @@
+.customer{
+    width:100%;
+}
+.customer >button{
+    text-align: center;
+    margin-left: 20%;
+    margin-top: 5.05%;
+    width: 20%;
+    height: 30%;
+    background-color: rgb(38, 117, 219);
+}
+.customer > button a{
+    color: black;
+    font-size: x-large;
+}

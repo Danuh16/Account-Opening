@@ -1,0 +1,35 @@
+.agree{
+    font-size: larger;
+    margin-left: 20px;
+}
+.agree p{
+  font-size: larger;
+}
+.interpreter{
+    margin-left: 30px;
+    margin-bottom: 30px;
+    font-size: larger;
+}
+.interpreter input{
+    width: 400px;
+    padding: 10px;
+    border: 1px solid #ffce03;
+    box-sizing: border-box;
+    background-color: #faefc4;
+}
+#date1 {
+  margin-bottom: 20px;
+  margin-left: 110px;
+}
+#name{
+  margin-bottom: 20px;
+  margin-left: 15px;
+}
+#interpreter{
+  margin-bottom: 20px;
+}
+#number{
+    margin-bottom: 20px;
+    margin-left: 6px;
+}
+  

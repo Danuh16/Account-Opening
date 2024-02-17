@@ -1,0 +1,74 @@
+.amount{
+    margin-left: 30px;
+    font-size: large;
+    margin-top:5% ;
+    text-align: center;
+}
+#amount{
+    margin-right: 500px;
+    font-size: larger;
+    display: inline;
+}
+.amount input{
+    margin-left: 20px;
+    width: 30%;
+    padding: 5px;
+    border: 1px solid #ffce03;
+    box-sizing: border-box;
+    background-color: #faefc4;
+    font-size: large;
+    text-align: center;
+    display: inline;
+    margin-top:-40px ;
+}
+.bankname{
+    margin-left: 30px;
+    font-size: large;
+    text-align: center;
+}
+#bank{
+    font-size: larger;
+}
+#accnum{
+    font-size: larger ;
+    margin-left: 300px;
+}
+.bankname select{
+    margin-top:10px ;
+    margin-left: 20px;
+    width: 30%;
+    padding: 1px;
+    border: 1px solid #ffce03;
+    box-sizing: border-box;
+    background-color: #faefc4;
+    font-size: large;
+    text-align: center;
+    display: inline;
+}
+.bankname input{
+    width: 30%;
+    padding: 3px;
+    border: 1px solid #ffce03;
+    box-sizing: border-box;
+    background-color: #faefc4;
+    margin-left: 80px;
+    display: inline;
+}
+.status select{
+    margin-left: 5%;
+    margin-bottom: 5px;
+    margin-top:10px ;
+    width: 40%;
+    padding: 3px;
+    border: 1px solid #ffce03;
+    box-sizing: border-box;
+    background-color: #faefc4;
+    font-size: large;
+    text-align: center;
+    display: inline;
+}
+.bankname button{
+    background-color: #ffce03;
+    width:10%;
+    height: 10%;
+}

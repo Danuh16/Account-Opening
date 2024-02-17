@@ -1,0 +1,87 @@
+.log {
+    top: 25%;
+    left: 35%;
+    position: fixed;
+    display: block;
+    text-align: left;
+    flex-direction: row;
+    max-width: 500px;
+    max-height: 446px;
+    width: 50%;
+    background: #ffffff;
+    height:100%;
+    border-radius: 6px;
+    margin-top: 1%;
+    box-shadow: 10px 8px 12px 15px #f5ee8b;
+}
+.log h1{
+    display: flex;
+    font-family: 'Times New Roman', Times, serif;
+    align-items: center;
+    justify-content: center;
+    font-size: xxx-large;
+    color: #111a22;
+    margin-top: 10%;
+}
+
+.log label{
+    text-align: left;
+    margin-left: 4%;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    display:inline;
+    color: #060708;
+}
+.log input, textarea {
+    width: 80%;
+    padding: 6px 10px;
+    margin-left: 10%;
+    border: 1px solid #ffce03;
+    box-sizing: border-box;
+    background-color: #faefc4;
+    display: block;
+}
+.log button{
+    background: #025aa2;
+    display: block;
+    justify-content: center;
+    margin-left: 29%;
+    margin-right: 25%;
+    margin-top: 7%;
+    color: #1d1c1a;
+    border: 1px;
+    cursor: pointer;
+    max-width: 190px;
+    max-height: 96px;
+    height: 50%;
+    width: 100%;
+    border-radius: 6px;
+    padding: 15px;
+    font-size: large;
+    box-shadow: 1px 1px 2px 4px rgba(130, 144, 41, 0.1);
+}
+.log button:hover{
+    background-color: #ffce03;
+}
+.adminfooter{
+    background-image: url(../components/images/footer.png) ;
+    background-size: cover;
+    height: 100px;
+    background-repeat: no-repeats;
+    text-align: center;
+    justify-content: center;
+    margin-top: 40.4%;
+    }
+    
+.adminfooter  a{
+      margin-left: 3%;
+      padding-right: 2%;
+    }
+.fa{
+      color: #ffce03;
+    }
+.adminfooter label{
+      padding-left:5% ;
+      padding-top: 10%;
+      top: 100px;
+    }

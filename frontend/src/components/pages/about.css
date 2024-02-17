@@ -1,0 +1,97 @@
+.about{
+    text-align: center;
+    color: blue;
+}
+.about p{
+    color:black;
+    font-size: large;
+}
+
+.about-container1{
+  width:95%;
+  background-color: rgb(235, 241, 241);
+  border-radius: 8px;
+  box-shadow: 0 0 15px 1px rgba(0,0,0,0.4);
+  display: flex;
+  flex-direction: column;
+  margin-top: 2%;
+  margin-left: 2%;
+}
+.about-container2{
+    width:30%;
+    background-color: rgb(235, 241, 241);
+    border-radius: 8px;
+    box-shadow: 0 0 15px 1px rgba(0,0,0,0.4);
+    display: flex;
+    flex-direction: column;
+    float: left;
+    margin-top: 2%;
+    margin-left: 15%;
+  }
+  .about-container3{
+    width:30%;
+    background-color: rgb(235, 241, 241);
+    border-radius: 8px;
+    float: left;
+    box-shadow: 0 0 15px 1px rgba(0,0,0,0.4);
+    margin-top: 2%;
+    margin-left: 6%;
+    
+  }
+  .about-container4{
+    width:95%;
+    background-color: rgb(235, 241, 241);
+    border-radius: 8px;
+    box-shadow: 0 0 15px 1px rgba(0,0,0,0.4);
+    display: flex;
+    flex-direction: column;
+    margin-top: 15%;
+    margin-left: 2%;
+  }
+  .about-containerI{
+    width:30%;
+    background-color: rgb(198, 216, 219);
+    border-radius: 8px;
+    float: left;
+    box-shadow: 0 0 15px 1px rgba(0,0,0,0.4);
+    margin-top: 2%;
+    margin-left: 3%;
+    
+  }
+  .about-containerC{
+    width:30%;
+    background-color: rgb(198, 216, 219);
+    border-radius: 8px;
+    box-shadow: 0 0 15px 1px rgba(0,0,0,0.4);
+    margin-top: 2%;
+    margin-left: 3%;
+    
+  }
+  .about-containerR{
+    width:30%;
+    background-color: rgb(198, 216, 219);
+    border-radius: 8px;
+    box-shadow: 0 0 15px 1px rgba(0,0,0,0.4);
+    margin-top: 2%;
+    margin-left: 3%;
+    float: left;
+  }
+  .about-containerA{
+    width:30%;
+    background-color: rgb(198, 216, 219);
+    border-radius: 8px;
+    box-shadow: 0 0 15px 1px rgba(0,0,0,0.4);
+    margin-top: 2%;
+    margin-left: 3%;
+    
+  }
+  .about-containerE{
+    width:30%;
+    background-color: rgb(198, 216, 219);
+    border-radius: 8px;
+    float: left;
+    box-shadow: 0 0 15px 1px rgba(0,0,0,0.4);
+    margin-top: 2%;
+    margin-left: 3%;
+    
+  }
